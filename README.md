@@ -39,7 +39,7 @@ Transform your meeting transcripts into actionable insights with the power of AI
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/piyushrajyadav/AI-Meeting-summarizer.git
    cd ai-meeting-notes
    ```
 
@@ -210,15 +210,6 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Issues**: Report bugs via [GitHub Issues](<repository-url>/issues)
-- **Discussions**: Join conversations in [GitHub Discussions](<repository-url>/discussions)
-- **Documentation**: Visit our [Wiki](<repository-url>/wiki)
 
 ## 🙏 Acknowledgments
 
@@ -240,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for productive meetings**
 
-[Demo](https://your-demo-url.vercel.app) • [Documentation](<repository-url>/wiki) • [Report Bug](<repository-url>/issues)
+[Demo](https://your-demo-url.vercel.app) • 
 
 </div>
 # AI-Meeting-summarizer
