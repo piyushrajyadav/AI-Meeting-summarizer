@@ -229,9 +229,9 @@ We welcome contributions! Please follow these steps:
 
 <div align="center">
 
-**Built with ❤️ for productive meetings**
+**Built with ❤️ for productive meetings by [Piyush Yadav](piyushyadav.me)**
 
-[Demo](https://your-demo-url.vercel.app) • 
+[Demo](https://meeting-notes-theta.vercel.app/)
 
 </div>
 # AI-Meeting-summarizer
